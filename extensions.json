@@ -35,7 +35,10 @@
     "silvenon.mdx",
     "xyc.vscode-mdx-preview",
     // Motoko
-    "dfinity-foundation.vscode-motoko"
+    "dfinity-foundation.vscode-motoko",
+    // OpenAPI
+    "42crunch.vscode-openapi",
+    "philosowaffle.openapi-designer"
   ],
   "unwantedRecommendations": []
 }
