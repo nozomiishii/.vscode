@@ -8,6 +8,7 @@
     "monokai.theme-monokai-pro-vscode",
     "streetsidesoftware.code-spell-checker",
     "usernamehw.errorlens",
+    "naumovs.color-highlight",
     // Nx
     "nrwl.angular-console",
     // TypeScript
@@ -31,6 +32,7 @@
     // Markdown
     "yzhang.markdown-all-in-one",
     "avidanson.vscode-markdownlint",
+    "bierner.markdown-mermaid",
     // mdx
     "silvenon.mdx",
     "xyc.vscode-mdx-preview",
@@ -38,7 +40,9 @@
     "dfinity-foundation.vscode-motoko",
     // OpenAPI
     "42crunch.vscode-openapi",
-    "philosowaffle.openapi-designer"
+    "philosowaffle.openapi-designer",
+    // Docker
+    "azuretools.vscode-docker"
   ],
   "unwantedRecommendations": []
 }
