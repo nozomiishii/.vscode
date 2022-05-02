@@ -9,6 +9,7 @@
     "streetsidesoftware.code-spell-checker",
     "usernamehw.errorlens",
     "naumovs.color-highlight",
+    "mikestead.dotenv",
     // Nx
     "nrwl.angular-console",
     // TypeScript
