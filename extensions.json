@@ -11,6 +11,7 @@
     "naumovs.color-highlight",
     "mikestead.dotenv",
     "visualstudioexptteam.vscode",
+    "gruntfuggly.todo-tree",
     // Nx
     "nrwl.angular-console",
     // TypeScript
