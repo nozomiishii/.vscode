@@ -13,12 +13,14 @@
     "visualstudioexptteam.vscode",
     "gruntfuggly.todo-tree",
     "redhat.vscode-yaml",
+    "tabnine.tabnine-vscode",
     // Nx
     "nrwl.angular-console",
     // TypeScript
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "firsttris.vscode-jest-runner",
+    // CSS
     "bradlc.vscode-tailwindcss",
     "stylelint.vscode-stylelint",
     // Solidity
