@@ -12,6 +12,7 @@
     "mikestead.dotenv",
     "visualstudioexptteam.vscode",
     "gruntfuggly.todo-tree",
+    "redhat.vscode-yaml",
     // Nx
     "nrwl.angular-console",
     // TypeScript
