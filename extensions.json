@@ -1,52 +1,54 @@
 {
   "recommendations": [
     // General
-    "bierner.markdown-mermaid",
-    "christian-kohler.path-intellisense",
-    "formulahendry.auto-rename-tag",
-    "humao.rest-client",
     "monokai.theme-monokai-pro-vscode",
-    "streetsidesoftware.code-spell-checker",
-    "usernamehw.errorlens",
     "naumovs.color-highlight",
+    "usernamehw.errorlens",
     "mikestead.dotenv",
-    "visualstudioexptteam.vscode",
+    "streetsidesoftware.code-spell-checker",
     "gruntfuggly.todo-tree",
-    "redhat.vscode-yaml",
+    "humao.rest-client",
+    // Intellisense
+    "visualstudioexptteam.vscode",
+    "christian-kohler.path-intellisense",
     "tabnine.tabnine-vscode",
-    // Nx
-    "nrwl.angular-console",
-    // TypeScript
-    "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode",
-    "firsttris.vscode-jest-runner",
+    // Markdown
+    "yzhang.markdown-all-in-one",
+    "avidanson.vscode-markdownlint",
+    "bierner.markdown-mermaid",
+    // MDX
+    "silvenon.mdx",
+    "xyc.vscode-mdx-preview",
+    // HTML
+    "formulahendry.auto-rename-tag",
     // CSS
     "bradlc.vscode-tailwindcss",
     "stylelint.vscode-stylelint",
-    // Solidity
-    "juanblanco.solidity",
-    // Go
-    "golang.go",
+    // Yaml
+    "redhat.vscode-yaml",
+    // AppleScript
+    "idleberg.applescript",
     // Rust
     "bungcip.better-toml",
     "matklad.rust-analyzer",
     "prisma.prisma",
     "vadimcn.vscode-lldb",
     "serayuzgur.crates",
-    // AppleScript
-    "idleberg.applescript",
-    // Markdown
-    "yzhang.markdown-all-in-one",
-    "avidanson.vscode-markdownlint",
-    "bierner.markdown-mermaid",
-    // mdx
-    "silvenon.mdx",
-    "xyc.vscode-mdx-preview",
+    // Go
+    "golang.go",
+    // TypeScript
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "firsttris.vscode-jest-runner",
+    // Solidity
+    "juanblanco.solidity",
     // Motoko
     "dfinity-foundation.vscode-motoko",
     // OpenAPI
     "42crunch.vscode-openapi",
     "philosowaffle.openapi-designer",
+    // Nx
+    "nrwl.angular-console",
     // Docker
     "azuretools.vscode-docker"
   ],
