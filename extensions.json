@@ -9,12 +9,12 @@
     "gruntfuggly.todo-tree",
     "humao.rest-client",
     // Intellisense
-    "visualstudioexptteam.vscode",
+    "visualstudioexptteam.vscodeintellicode",
     "christian-kohler.path-intellisense",
     "tabnine.tabnine-vscode",
     // Markdown
     "yzhang.markdown-all-in-one",
-    "avidanson.vscode-markdownlint",
+    "davidanson.vscode-markdownlint",
     "bierner.markdown-mermaid",
     // MDX
     "silvenon.mdx",
@@ -50,7 +50,7 @@
     // Nx
     "nrwl.angular-console",
     // Docker
-    "azuretools.vscode-docker"
+    "ms-azuretools.vscode-docker"
   ],
   "unwantedRecommendations": []
 }
