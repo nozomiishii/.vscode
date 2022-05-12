@@ -2,6 +2,7 @@
   "recommendations": [
     // General
     "monokai.theme-monokai-pro-vscode",
+    "vscode-icons-team.vscode-icons",
     "naumovs.color-highlight",
     "usernamehw.errorlens",
     "mikestead.dotenv",
