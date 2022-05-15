@@ -8,7 +8,6 @@
     "mikestead.dotenv",
     "streetsidesoftware.code-spell-checker",
     "gruntfuggly.todo-tree",
-    "humao.rest-client",
     // Intellisense
     "visualstudioexptteam.vscodeintellicode",
     "christian-kohler.path-intellisense",
@@ -51,7 +50,11 @@
     // Nx
     "nrwl.angular-console",
     // Docker
-    "ms-azuretools.vscode-docker"
+    "ms-azuretools.vscode-docker",
+    // GraphQL
+    "graphql.vscode-graphql",
+    // Rest
+    "humao.rest-client"
   ],
   "unwantedRecommendations": []
 }
