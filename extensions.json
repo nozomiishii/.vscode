@@ -51,6 +51,8 @@
     "nrwl.angular-console",
     // Docker
     "ms-azuretools.vscode-docker",
+    // Terraform
+    "hashicorp.terraform",
     // GraphQL
     "graphql.vscode-graphql",
     // Rest
