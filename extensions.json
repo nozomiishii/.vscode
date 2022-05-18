@@ -51,6 +51,8 @@
     "nrwl.angular-console",
     // Docker
     "ms-azuretools.vscode-docker",
+    // Kubernetes
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
     // Terraform
     "hashicorp.terraform",
     // GraphQL
