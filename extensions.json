@@ -8,6 +8,7 @@
     "mikestead.dotenv",
     "streetsidesoftware.code-spell-checker",
     "gruntfuggly.todo-tree",
+    "mechatroner.rainbow-csv",
     // Intellisense
     "visualstudioexptteam.vscodeintellicode",
     "christian-kohler.path-intellisense",
