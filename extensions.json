@@ -30,11 +30,10 @@
     // AppleScript
     "idleberg.applescript",
     // Rust
-    "bungcip.better-toml",
-    "matklad.rust-analyzer",
-    "prisma.prisma",
-    "vadimcn.vscode-lldb",
+    "rust-lang.rust-analyzer",
     "serayuzgur.crates",
+    "bungcip.better-toml",
+    "vadimcn.vscode-lldb",
     // Go
     "golang.go",
     // TypeScript
@@ -48,6 +47,8 @@
     // OpenAPI
     "42crunch.vscode-openapi",
     "philosowaffle.openapi-designer",
+    // Prisma
+    "prisma.prisma",
     // Nx
     "nrwl.angular-console",
     // Docker
