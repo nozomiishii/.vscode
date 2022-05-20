@@ -1,5 +1,11 @@
 # Nozomi's VSCode Setup
 
+## Get Started
+
+```sh
+  git submodule add git@github.com:nozomiishii/.vscode.git
+```
+
 ## Git Submodules
 
 追加
