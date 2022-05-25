@@ -27,6 +27,8 @@
     "stylelint.vscode-stylelint",
     // Yaml
     "redhat.vscode-yaml",
+    // Shell
+    "bmalehorn.shell-syntax",
     // AppleScript
     "idleberg.applescript",
     // Rust
