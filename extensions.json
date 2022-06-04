@@ -28,7 +28,6 @@
     // Yaml
     "redhat.vscode-yaml",
     // Shell
-    "bmalehorn.shell-syntax",
     "foxundermoon.shell-format",
     // AppleScript
     "idleberg.applescript",
