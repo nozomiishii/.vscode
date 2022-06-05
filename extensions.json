@@ -59,6 +59,8 @@
     "ms-kubernetes-tools.vscode-kubernetes-tools",
     // Terraform
     "hashicorp.terraform",
+    // Nginx
+    "hangxingliu.vscode-nginx-conf-hint",
     // GraphQL
     "graphql.vscode-graphql",
     // Rest
