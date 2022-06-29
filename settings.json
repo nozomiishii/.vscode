@@ -26,5 +26,24 @@
   },
   "yaml.schemas": {
     "https://json.schemastore.org/github-issue-config.json": "../.github/ISSUE_TEMPLATE/config.yaml"
+  },
+
+  // REST Client
+  "rest-client.environmentVariables": {
+    "$shared": {
+      "version": "v1",
+      "token": ""
+    },
+    "$user": {
+      "email": "sample@example.com"
+    },
+    "mock": {
+      "host": "localhost:4010"
+    },
+    "dev": {
+      "host": "localhost:4000"
+    },
+    "stg": {},
+    "prod": {}
   }
 }
