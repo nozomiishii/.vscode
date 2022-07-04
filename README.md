@@ -1,4 +1,4 @@
-# Nozomi's VSCode Setup
+# .vscode
 
 <div align="center">
   <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="Coding" width="120"/>
