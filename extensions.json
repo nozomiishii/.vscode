@@ -10,6 +10,7 @@
     "gruntfuggly.todo-tree",
     "mechatroner.rainbow-csv",
     "analytic-signal.preview-pdf",
+    "eamodio.gitlens",
     // Intellisense
     "visualstudioexptteam.vscodeintellicode",
     "christian-kohler.path-intellisense",
