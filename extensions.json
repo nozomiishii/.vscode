@@ -68,6 +68,5 @@
     "graphql.vscode-graphql",
     // Rest
     "humao.rest-client"
-  ],
-  "unwantedRecommendations": []
+  ]
 }
