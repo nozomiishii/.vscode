@@ -1,4 +1,8 @@
 {
+  "search.exclude": {
+    "**/node_modules": true
+  },
+
   // Prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
@@ -7,23 +11,20 @@
   "eslint.enable": true,
   "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true,
-    "source.fixAll.stylelint": true
-  },
-  "search.exclude": {
-    "**/node_modules": true
+    "source.addMissingImports": true,
+    "source.fixAll.eslint": true
   },
 
   // Markdown
-  "markdown.extension.toc.updateOnSave": false,
   "[markdown]": {
     "editor.defaultFormatter": "vscode.markdown-language-features",
     "editor.formatOnSave": true,
-    "editor.formatOnPaste": true,
     "editor.codeActionsOnSave": {
       "source.fixAll.markdownlint": true
     }
   },
+
+  // Yaml
   "yaml.schemas": {
     "https://json.schemastore.org/github-issue-config.json": "../.github/ISSUE_TEMPLATE/config.yaml"
   },
